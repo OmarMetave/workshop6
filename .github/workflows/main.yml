@@ -28,5 +28,5 @@ jobs:
       uses: aws-actions/aws-cloudformation-github-deploy@master
       with:
         name: testingworkflow
-        template: template.yaml
+        template: template (5).yaml
         capabilities: CAPABILITY_NAMED_IAM
